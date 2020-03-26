@@ -11,5 +11,8 @@
   "dependencies": {
     "inquirer": "^7.1.0",
     "node-fetch": "^2.6.0"
+  },
+  "bin": {
+    "yolospam":"./bin/yolospam"
   }
 }
